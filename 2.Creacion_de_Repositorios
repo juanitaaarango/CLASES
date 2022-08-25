@@ -1,0 +1,15 @@
+25 agosto 22
+
+Se aprendió a hacer uso de Git y GitHub, los cuales son herramientas para el uso y manejo de 
+respositorios locales y en la nube. 
+
+PASOS PARA CREAR REPOSITORIOS 
+1. Tener Git y GitHub 
+2. Configurar usuario y correo
+3. Ir al icono de los 3 nodos
+4. Direccionarse al Working Directory o inicializar un repositorio dando click al botón Inicialize Repository
+5. Se selecciona el icono de (+) loo cual genera que el estado de los documentos cambien de "U" a "A"
+    esto hace que los archivos pasen al Stage Area 
+6. Llevarlo al Commit Area para ello se escribe un mensaje y se selecciona el botón Commit 
+
+
