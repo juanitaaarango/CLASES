@@ -6,10 +6,15 @@ respositorios locales y en la nube.
 PASOS PARA CREAR REPOSITORIOS 
 1. Tener Git y GitHub 
 2. Configurar usuario y correo
+    - Abrir el terminal y escribir
+        git config --global user.name "juanitaaarango"
+        git config --global user.name "jalzatea@unal.edu.co"
 3. Ir al icono de los 3 nodos
 4. Direccionarse al Working Directory o inicializar un repositorio dando click al botón Inicialize Repository
 5. Se selecciona el icono de (+) loo cual genera que el estado de los documentos cambien de "U" a "A"
     esto hace que los archivos pasen al Stage Area 
-6. Llevarlo al Commit Area para ello se escribe un mensaje y se selecciona el botón Commit 
+6. Llevarlo al Commit Area para ello se escribe un mensaje y se selecciona el botón Commit es necesario tener 
+    en cuenta que para realizar un Publish Bransh es necesario configurar el usuario y el email usando los
+    comandos en la terminal de Visual Studio Code (El cual es el sistema más básico de escritura de código)
 
 
